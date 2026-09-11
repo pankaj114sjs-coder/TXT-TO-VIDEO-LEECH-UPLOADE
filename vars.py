@@ -2,9 +2,9 @@
 
 from os import environ
 
-API_ID = int(environ.get("API_ID", ""))
-API_HASH = environ.get("API_HASH", "")
-BOT_TOKEN = environ.get("BOT_TOKEN", "")
+API_ID = int(environ.get("API_ID", "33642705"))
+API_HASH = environ.get("API_HASH", "e6f71b5d10d8a5482990f4c9add0b1ea")
+BOT_TOKEN = environ.get("BOT_TOKEN", "8928906721:AAETgxbiUTlz_bZQVMBmdtmMKxs9tyVrvJI")
 
 # Force Subscribe Configuration
 FORCE_SUB_CHANNEL = environ.get("FORCE_SUB_CHANNEL", "roxybasicneedbot1")  # Channel username without @, 
